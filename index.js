@@ -1,24 +1,19 @@
 /*
 
-███████╗██████╗ ██╗████████╗██╗  ██╗      ███╗   ███╗██████╗ 
-██╔════╝██╔══██╗██║╚══██╔══╝██║  ██║      ████╗ ████║██╔══██╗
-█████╗  ██████╔╝██║   ██║   ███████║      ██╔████╔██║██████╔╝
-██╔══╝  ██╔═══╝ ██║   ██║   ██╔══██║      ██║╚██╔╝██║██╔═══╝ 
-███████╗██║     ██║   ██║   ██║  ██║      ██║ ╚═╝ ██║██║     
-╚══════╝╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝      ╚═╝     ╚═╝╚═╝     
 
-   ✦ ✦ ✦   E D I T H - M D   ✦ ✦ ✦
+
+   ✦ ✦ ✦   A B E L - M D   ✦ ✦ ✦
 
 ─────────────────────────────────────────────────────────────
-📛 Project   : Edith-MD
-👤 Creator   : Bandaheali
-🌐 GitHub    : https://github.com/Bandah-E-Ali
-📱 Contact   : www.contact.bandaheali.site
-📢 Channel   : https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P
+📛 Project   : Abel
+👤 Creator   : ABEL SEGAWA
+🌐 GitHub    : https://github.com/ABELSEGAWA12
+📱 Contact   : www.contact.ABEL.site
+📢 Channel   : 
 🗓 Release   : 02 • September • 2025 | 12:00 PM
 ─────────────────────────────────────────────────────────────
 
-//   ⭐ PROUDLY MADE IN PAKISTAN ⭐
+//   ⭐ PROUDLY MADE IN UGANDA ⭐
 */
 
 
